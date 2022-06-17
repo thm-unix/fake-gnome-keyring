@@ -6,7 +6,7 @@ Fake GNOME Keyring window that launches a custom command if the password is ente
 2. Put config.json in ~/.config/fake-gnome-keyring/
 ``` 
 {
-  "passwordMD5": "...",
+  "passwordHash": "...",
   "alarmCommand": "..."
 }
 ```
