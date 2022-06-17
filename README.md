@@ -3,13 +3,7 @@ Fake GNOME Keyring window that launches a custom command if the password is ente
 
 # Installation
 1. Build it from sources or download binary
-2. Put config.json in ~/.config/fake-gnome-keyring/
-``` 
-{
-  "passwordHash": "...",
-  "alarmCommand": "..."
-}
-```
+2. Run fake-gnome-keyring for the first time and set it up
 3. Put fake-gnome-keyring in autostart
 
 # Screenshots
